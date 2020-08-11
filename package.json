@@ -1,0 +1,32 @@
+{
+  "name": "englishfiller",
+  "version": "1.0.0",
+  "description": "English multiple choice questions solver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhluong/englishfiller.git"
+  },
+  "keywords": [
+    "english",
+    "nlp",
+    "bert",
+    "fill",
+    "in",
+    "the",
+    "blank"
+  ],
+  "author": "Luong Doan, Nhat Pham, Khanh Huynh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thanhluong/englishfiller/issues"
+  },
+  "homepage": "https://github.com/thanhluong/englishfiller#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
